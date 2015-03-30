@@ -1,0 +1,11 @@
+body {
+	font-family: 'Jura', sans-serif;
+}
+
+h1 {
+	font-size: 55px;
+}
+
+h1, h2 {
+	font-weight: 300;
+}
